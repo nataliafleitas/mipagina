@@ -1,0 +1,23 @@
+body{
+   background-image: url("https://us.123rf.com/450wm/asamask92/asamask921604/asamask92160400051/55517435-cuarzo-rosa-lila-gris-degradado-de-fondo-ilustraci%C3%B3n-vectorial.jpg?ver=6");
+   background-repeat: no-repeat;
+   background-size: 150%;
+   
+}
+.menu{
+    background-color: #7482D6;
+
+
+}
+.centrado{
+    text-align:center;
+}
+.mover{ 
+    display:flex;
+    justify-content: flex-end;
+
+}
+.contendor{
+    display:flex;
+    align-items: center;
+}
